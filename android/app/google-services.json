@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "758666974478",
+    "firebase_url": "https://saludvitale-f7b2c.firebaseio.com",
+    "project_id": "saludvitale-f7b2c",
+    "storage_bucket": "saludvitale-f7b2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758666974478:android:e7c53f0a5a0de0f531735f",
+        "android_client_info": {
+          "package_name": "com.Saludvitale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758666974478-009ij2jii5n6frark2edtuqsce7e97ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYwh5RzJZBllwXHis8-mgZL_5S6BP8aeQ"
+        },
+        {
+          "current_key": "AIzaSyC9CLH2D5LnTqijmdOGWSz_oj28kOYktKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758666974478-009ij2jii5n6frark2edtuqsce7e97ck.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758666974478-f8hpq6pl90rklrqvgi7rdke9r710cu45.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.SaludVitale"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758666974478:android:8d3588b135fac5dc",
+        "android_client_info": {
+          "package_name": "com.saludvitale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758666974478-brpcehnunr4aja5lrhv0ac40oi6un3a7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saludvitale",
+            "certificate_hash": "a7a66e698eaea621d40df76ba4109b5f6243b1d4"
+          }
+        },
+        {
+          "client_id": "758666974478-009ij2jii5n6frark2edtuqsce7e97ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYwh5RzJZBllwXHis8-mgZL_5S6BP8aeQ"
+        },
+        {
+          "current_key": "AIzaSyC9CLH2D5LnTqijmdOGWSz_oj28kOYktKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758666974478-009ij2jii5n6frark2edtuqsce7e97ck.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758666974478-f8hpq6pl90rklrqvgi7rdke9r710cu45.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.SaludVitale"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

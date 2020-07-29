@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SaludVitale.iml" filepath="$PROJECT_DIR$/SaludVitale.iml" group="SaludVitale" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1031199737/SaludVitale-react-native-firebase.iml" filepath="$PROJECT_DIR$/.idea/modules/1031199737/SaludVitale-react-native-firebase.iml" group="SaludVitale/react-native-firebase" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1469388372/SaludVitale-react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1469388372/SaludVitale-react-native-gesture-handler.iml" group="SaludVitale/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2106251982/SaludVitale-react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-2106251982/SaludVitale-react-native-image-picker.iml" group="SaludVitale/react-native-image-picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1569164014/SaludVitale-react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/-1569164014/SaludVitale-react-native-permissions.iml" group="SaludVitale/react-native-permissions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1305910068/SaludVitale-react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/-1305910068/SaludVitale-react-native-push-notification.iml" group="SaludVitale/react-native-push-notification" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1900227229/SaludVitale-react-native-restart.iml" filepath="$PROJECT_DIR$/.idea/modules/1900227229/SaludVitale-react-native-restart.iml" group="SaludVitale/react-native-restart" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/567889998/SaludVitale-react-native-twilio-video-webrtc.iml" filepath="$PROJECT_DIR$/.idea/modules/567889998/SaludVitale-react-native-twilio-video-webrtc.iml" group="SaludVitale/react-native-twilio-video-webrtc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-480984574/SaludVitale-react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-480984574/SaludVitale-react-native-vector-icons.iml" group="SaludVitale/react-native-vector-icons" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="SaludVitale/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1967645512/com.swmansion.reanimated-react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1967645512/com.swmansion.reanimated-react-native-reanimated.iml" group="SaludVitale/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-firebase/android/react-native-firebase.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-firebase/android/react-native-firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/android/react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-image-picker/android/react-native-image-picker.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-image-picker/android/react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-permissions/android/react-native-permissions.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-permissions/android/react-native-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-push-notification/android/react-native-push-notification.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-push-notification/android/react-native-push-notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-reanimated/android/react-native-reanimated.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-reanimated/android/react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-restart/android/react-native-restart.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-restart/android/react-native-restart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1818238443/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1818238443/react-native-screens.iml" group="SaludVitale/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-twilio-video-webrtc/android/react-native-twilio-video-webrtc.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-twilio-video-webrtc/android/react-native-twilio-video-webrtc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

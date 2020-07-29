@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>758666974478-6st84e11f209rjov0puc94it0mr7sgos.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.758666974478-6st84e11f209rjov0puc94it0mr7sgos</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>758666974478-brpcehnunr4aja5lrhv0ac40oi6un3a7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAMgMlqXhtdkzr_zvFkVSCqrSIMRLhGRsY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>758666974478</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.org.reactjs.native.example.SaludVitale</string>
+	<key>PROJECT_ID</key>
+	<string>saludvitale-f7b2c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>saludvitale-f7b2c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:758666974478:ios:01e0f5da1f79a10831735f</string>
+	<key>DATABASE_URL</key>
+	<string>https://saludvitale-f7b2c.firebaseio.com</string>
+</dict>
+</plist>
